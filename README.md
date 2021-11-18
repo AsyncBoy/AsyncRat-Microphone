@@ -9,6 +9,7 @@
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/yvqcfy2.gif)
+![изображение](https://user-images.githubusercontent.com/94592765/142364391-22b00f46-743b-4a56-ac77-83736871608f.png)
 
 
 ## Features
